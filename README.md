@@ -1,4 +1,4 @@
-# ConversionCalculator
+# Conversion Calculator
 Unit Converter using GUI Programming 
 
 1. Inches to Centimeters
